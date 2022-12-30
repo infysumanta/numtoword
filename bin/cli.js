@@ -12,5 +12,5 @@ const numberToWord = require("./../lib/numberToWord");
     process.exit(0);
   }
   /* This is a function call to the numberToWord function. */
-  numberToWord(number);
+  console.log(numberToWord(number));
 })();
