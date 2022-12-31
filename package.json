@@ -1,6 +1,6 @@
 {
   "name": "numtoword-cli",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "NodeJS cli tools to convert Number to Words in console",
   "main": "index.js",
   "bin": {
