@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/infysumanta/numtoword.git"
+    "url": "git+https://github.com/infysumanta/numtoword-cli.git"
   },
   "keywords": [],
   "author": "Sumanta Kabiraj (https://github.com/infysumanta)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/infysumanta/numtoword/issues"
+    "url": "https://github.com/infysumanta/numtoword-cli/issues"
   },
-  "homepage": "https://github.com/infysumanta/numtoword#readme",
+  "homepage": "https://github.com/infysumanta/numtoword-cli#readme",
   "dependencies": {
     "jest": "^29.3.1"
   }
