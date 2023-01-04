@@ -28,7 +28,7 @@ numtoword 99999
 ### if you not download the library globally on your machine use below command to run the command directly
 
 ```sh
-npx numtoword 99999
+npx numtoword-cli 99999
 ```
 
 ## Expected Result
