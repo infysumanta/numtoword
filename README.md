@@ -67,7 +67,3 @@ Give a ⭐️ if this project helped you!
 Copyright © 2022 [Sumanta Kabiraj (https://github.com/infysumanta)](https://github.com/infysumanta).
 
 This project is [ISC](https://github.com/infysumanta/numtoword-cli/blob/master/LICENSE) licensed.
-
----
-
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
